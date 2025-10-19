@@ -43,7 +43,6 @@ split_folder_name = 'split_dataset'
 # 2. Name of the final merged file
 merged_file_name = 'AirlineReviews.csv'
 
-# --- Run the function ---
 if __name__ == '__main__':
     if os.path.exists(split_folder_name):
         merge_csvs(split_folder_name, merged_file_name)
