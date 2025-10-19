@@ -1,2 +1,4 @@
 AirlineReviews.csv
 .env
+sentiment_model.pkl
+tfidf_vectorizer.pkl
