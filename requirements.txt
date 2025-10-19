@@ -1,6 +1,6 @@
 pandas
 nltk
 scikit-learn
-pickle
-re
-string
+# pickle
+# re
+# string
